@@ -1,8 +1,10 @@
 # PatchVerif
 
-## Download a virtual machine image
-*The virtual machine includes source code of PatchVerif.* <br>
+Setup of the PatchVerif running environment is quite tricky. <br>
+I would recommand you to download the virtual machine image and run PatchVerif. <br>
+The virtual machine image includes source code of PatchVerif.
 
+## Download a virtual machine image
 The image is created on VMware Workstation Player
 
 Download <a href="https://purdue0-my.sharepoint.com/:u:/g/personal/kim2956_purdue_edu/EV1WfJvUrL1GnCfzQackHe8BJS25qPhSKoKahAEtdiL7AA?e=JwNdvA">the virtual machine image</a>
